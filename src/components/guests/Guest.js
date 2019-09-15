@@ -21,7 +21,7 @@ const Guest = () => {
         </div>
       </div>
       <div className="card-body">
-        <h2>'John Doe</h2>
+        <h2>John Doe</h2>
         <span className='badge red'>'Non-Veg'</span>
         <div className="contact">
           <i className="fas fa-phone-alt" />
